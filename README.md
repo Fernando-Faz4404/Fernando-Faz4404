@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Estudiante+de+Sistemas+Inteligentes;Desarrollador+Full-Stack;Apasionado+por+la+Algoritmia" alt="Typing Animation" />
+</p>
+
 <!--
 **Fernando-Faz4404/Fernando-Faz4404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

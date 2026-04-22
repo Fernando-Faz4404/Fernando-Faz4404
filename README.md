@@ -29,17 +29,14 @@ I'm an 8th-semester **Intelligent Systems Engineering student at [UASLP](https:/
 
 ### ⭐ Featured Projects
 
-- **Satellite Data Management Platform** : Full-stack system for managing and converting satellite data from CORS stations, developed the frontend using React and TypeScript and Flask in the backend
+- **Satellite Data Management Platform** : Full-stack system for managing and converting satellite data from CORS stations, developed the frontend using React and TypeScript and Flask in the backend.
+  > Due to the privacy policies, the repository is not public.
 
-> [!IMPORTANT]
-> Due to the privacy policies, the repository is not public.
-
-- **Computing Laboratory System | UASLP** : Computing Laboratory Platform developed during my social service to manage access, equipment loans, and sanctions for university use implementing backend logic using Laravel and frontend interfaces with JavaScript
-> [!IMPORTANT]
-> Due to the privacy policies, the repository is not public.
+- **Computing Laboratory System | UASLP** : Computing Laboratory Platform developed during my social service to manage access, equipment loans, and sanctions for university use implementing backend logic using Laravel and frontend interfaces with JavaScript.
+  > Due to the privacy policies, the repository is not public.
 
 - **[Sign Language Recognition System]()** : Real-time sign language recognition system using Python, OpenCV and MediaPipe to
-  interpret hand gestures and translate them into text
+  interpret hand gestures and translate them into text.
 
 ### 😃 Let's Connect!
 

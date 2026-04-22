@@ -2,7 +2,7 @@
 
 <h2 align="left">
   Hi there! I'm 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=fff&center=false&vCenter=true&width=535&lines=Fernando;a+Intelligent+Systems+Engineer+Student;a+Full-Stack+Developer;an+Algorithms+Enthusiast" alt="Typing Animation" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=fff&center=false&vCenter=true&width=535&height=40&lines=Fernando;a+Intelligent+Systems+Engineer+Student;a+Full-Stack+Developer;an+Algorithms+Enthusiast" alt="Typing Animation" style="vertical-align: middle;" />
 </h2>
 
 ### ☝️ About me
@@ -30,9 +30,11 @@ I'm an 8th-semester **Intelligent Systems Engineering student at [UASLP](https:/
 ### ⭐ Featured Projects
 
 - **Satellite Data Management Platform** : Full-stack system for managing and converting satellite data from CORS stations, developed the frontend using React and TypeScript and Flask in the backend.
+
   > Due to the privacy policies, the repository is not public.
 
 - **Computing Laboratory System | UASLP** : Computing Laboratory Platform developed during my social service to manage access, equipment loans, and sanctions for university use implementing backend logic using Laravel and frontend interfaces with JavaScript.
+
   > Due to the privacy policies, the repository is not public.
 
 - **[Sign Language Recognition System]()** : Real-time sign language recognition system using Python, OpenCV and MediaPipe to

@@ -1,9 +1,10 @@
 <!-- ## Hi there, I'm 👋 -->
 
 <h2 align="left">
-  Hi there! I'm 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=fff&center=false&vCenter=true&width=535&height=40&lines=Fernando;a+Intelligent+Systems+Engineer+Student;a+Full-Stack+Developer;an+Algorithms+Enthusiast" alt="Typing Animation" style="vertical-align: middle;" />
+  Hi there! I'm Fernando
 </h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=fff&center=false&vCenter=true&width=535&height=40&lines=Intelligent+Systems+Engineer+Student;Full-Stack+Developer;Algorithms+Enthusiast" alt="Typing Animation" style="vertical-align: middle;" />
 
 ### ☝️ About me
 
@@ -42,7 +43,7 @@ I'm an 8th-semester **Intelligent Systems Engineering student at [UASLP](https:/
 
 ### 😃 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brian-fernando-muñiz-faz-482820380)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-fernando-muñiz-faz-482820380)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=icloud&logoColor=white)](mailto:fazbrian444@gmail.com)
 
 <!--

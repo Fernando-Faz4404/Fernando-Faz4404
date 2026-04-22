@@ -35,7 +35,6 @@ I'm an 8th-semester **Intelligent Systems Engineering student at [UASLP](https:/
   > Due to the privacy policies, the repository is not public.
 
 - **Computing Laboratory System | UASLP** : Computing Laboratory Platform developed during my social service to manage access, equipment loans, and sanctions for university use implementing backend logic using Laravel and frontend interfaces with JavaScript
-
   > [!IMPORTANT]
   > Due to the privacy policies, the repository is not public.
 
